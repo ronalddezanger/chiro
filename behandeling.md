@@ -1,0 +1,13 @@
+---
+layout: chiro
+title: De behandeling
+subtitle: 
+---
+
+Tijdens vervolgconsulten zullen een verkorte anamnese en onderzoek plaatsvinden en wordt er behandeld. Ieder lichaam is uniek, en daarom zal ook iedere behandeling uniek zijn. Het is daarom niet mogelijk hier een beschrijving te geven van een standaard behandeling. Ook het aantal behandelingen om een klacht te verhelpen kan variëren van bijvoorbeeld drie tot wel vijftien behandelingen. Wel zijn er een aantal factoren die regelmatig terugkeren. Voor de meeste klachten is een korte periode van intensieve behandelingen nodig om alle spieren en gewrichten soepel te krijgen. Zodra dit bereikt is zullen de behandelingen geleidelijk worden afgebouwd om ook op lange termijn stabiliteit te verkrijgen. 
+
+Voor de behandeling zelf kunnen verschillende technieken gebruikt worden. Vaak worden manipulaties gebruikt om de gewrichten weer soepel te laten bewegen. Dit is het toepassen van korte specifieke drukbewegingen op de wervelkolom of de andere gewrichten. Hierbij kan wat gas in de gewrichten ontsnappen wat een knakkend geluid geeft (dit is te vergelijken met het knakken van de vingers dat mensen weleens doen). Dit is bijna altijd pijnloos. Ook heeft de behandelbank die in deze praktijk gebruikt wordt verschillende opties om te behandelen. Zo kan bijvoorbeeld de wervelkolom op verschillende manieren opgerekt worden (hetgeen bij hernia, artrose veel verlichting kan geven). Ook kan de druk van de manipulaties ondersteund worden waardoor de manipulatie makkelijker gaat en u er niets van zult voelen of horen. Verder wordt soms de activator gebruikt. Dit is een klein apparaatje dat een snel kort stootje geeft om de spieren en daardoor ook de gewrichten losser te trillen. Deze methode is geheel pijnloos.
+
+Tijdens de zwangerschap wordt de bank in een speciale positie gezet zodat u nog gewoon op de buik kunt liggen en worden speciale technieken gebruikt waardoor zowel u als uw ongeboren kind er geen hinder van zullen ondervinden. Ook voor baby's en kinderen worden speciale technieken gebruikt zoals de activator en bepaalde drukpunt methodes. De druk die bij baby's gebruikt wordt zal nooit groter zijn dan de druk die u op uw oogbol kunt verdragen. De manipulaties kunnen worden ondersteund door massagetechnieken om de spieren rondom het gewricht losser te maken waardoor het gebied nog soepeler wordt.
+
+Zoals u kunt lezen wordt elke behandeling aangepast aan uw persoonlijke situatie waardoor de behandeling veilig kan worden toegepast. Voor elke klacht zijn er verschillende behandelopties. Wanneer u een behandeling niet prettig vindt, meldt dit dan altijd direct, zodat gezocht kan worden naar een andere behandelmethode die dan beter bij u past.

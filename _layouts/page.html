@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <h1 class="title is-1">{{ page.title }}</h1>
+            <h2 class="subtitle is-3">{% if page.subtitle %}{{ page.subtitle }}{% endif %}</h2>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container content">
+        <div class="columns">
+            <div class="column is-three-fifths is-offset-one-fifth">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</section>

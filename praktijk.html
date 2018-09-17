@@ -1,0 +1,117 @@
+---
+layout: default
+title: De praktijk
+subtitle: Tarieven, openingstijden, locatie en adresgegevens
+---
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <h1 class="title is-1">{{ page.title }}</h1>
+            <h2 class="subtitle is-3">{% if page.subtitle %}{{ page.subtitle }}{% endif %}</h2>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container content">
+        <h2 class="title has-text-centered">Openingstijden & Tarieven</h2>
+        <div class="columns">
+            <div class="column">
+                <table class="table is-striped is-fullwidth is-hoverable">
+                    <thead>
+                        <tr>
+                            <th>Onze openingstijden zijn:</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Maandag</td>
+                            <td>09.00h. - 19.30h.</td>
+                        </tr>
+                        <tr>
+                            <td>Dinsdag</td>
+                            <td>09.00h. - 17.30h.</td>
+                        </tr>
+                        <tr>
+                            <td>Woensdag</td>
+                            <td>09.00h. - 17.30h.</td>
+                        </tr>
+                        <tr>
+                            <td>Donderdag</td>
+                            <td>08.00h. - 19.30h.</td>
+                        </tr>
+                        <tr>
+                            <td>Vrijdag</td>
+                            <td>09.00h. - 14.00h.</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>Buiten deze openingstijden kunt u een boodschap met uw naam en telefoonnummer op het antwoordapparaat inspreken. Er wordt dan zo spoedig mogelijk contact met u opgenomen.</p>
+                <p>U kunt ook contact opnemen via ons e-mail adres <a href="mailto:info@chiropractievanleeuwen.nl">info@chiropractievanleeuwen.nl</a></p>
+            </div>
+            <div class="column">
+                <table class="table is-striped is-fullwidth is-hoverable">
+                    <thead>
+                        <tr>
+                            <th>Soort behandeling</th>
+                            <th>Tarief</th>
+                            <th>Tijdsduur</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1e consult <br/>(indien mogelijk direct behandeld)</td>
+                            <td>€ 75,00</td>
+                            <td>60 minuten</td>
+                        </tr>
+                        <tr>
+                            <td>Vervolgconsult <br/>(kinderen en volwassenen)</td>
+                            <td>€ 56,00</td>
+                            <td>20 minuten</td>
+                        </tr>
+                        <tr>
+                            <td>Check-up</td>
+                            <td>€ 40,00</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Screening</td>
+                            <td>€ 15,00</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Infrarood*</td>
+                            <td>€ 15,00</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                             <td>Spoedbehandeling 1e consult**</td>
+                            <td>€ 101,00</td>
+                            <td>60 minuten</td>
+                        </tr>
+                        <tr>
+                            <td>Spoedbehandeling vervolgconsult**</td>
+                            <td>€ 75,00</td>
+                            <td>20 minuten</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p><em>* Infrarood gebruik kan een onderdeel zijn van de behandeling en zal derhalve niet separaat in rekening worden gebracht. Infrarood kan ook zonder behandeling worden besproken voor het hierboven vermelde tarief.</em></p>
+                <p><em>** Spoedbehandeling vallen buiten de reguliere openingstijden.</em></p>
+            </div>
+        </div>
+        <p><strong>Wilt u een afspraak wijzigen? Doe dit dan minimaal 24 uur van tevoren. Wanneer u zonder bericht niet op de afspraak verschijnt zijn wij helaas genoodzaakt 50% van het voor de behandeling geldend tarief in rekening te brengen.</strong></p>
+    </div>
+</section>
+<section class="section">
+    <div class="container content has-text-centered">
+        <h2 class="title">Locatie</h2>
+        <p>Anthony van Hobokenstraat 8-10<br/>3161 KS Rhoon<br/>010 222 0900</p>
+    </div>
+</section>
+<div id="mapid"></div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    initMap();
+});
+</script>
