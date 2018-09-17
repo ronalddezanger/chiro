@@ -6,7 +6,7 @@
 title: Chiropractie van Leeuwen
 email: info@chiropractievanleeuwen.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Welko bij Chiropractie van Leeuwen. Op deze website kunt u lezen wat chiropractie voor u kan betekenen, wie wij zijn en waar u ons kunt vinden.
+  Welkom bij Chiropractie van Leeuwen. Op deze website kunt u lezen wat chiropractie voor u kan betekenen, wie wij zijn en waar u ons kunt vinden.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.chiropractievanleeuwen.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
