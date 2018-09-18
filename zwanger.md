@@ -33,3 +33,5 @@ Ook na de bevalling kunt u terecht om het herstel te bevorderen.
 Tijdens de zwangerschap hebben wij vaak even contact met de verloskundige en, indien nodig, de bekkenfysiotherapeut om informatie uit te wisselen zodat we u zo goed mogelijk kunnen helpen. Ook wanneer er geen tekenen zijn van blokkades in de wervelkolom zullen wij in de praktijk verder met u meedenken wat dan de oorzaak zou kunnen zijn van de klachten en we zullen u zeker verwijzen als wij denken dat het probleem ergens anders door veroorzaakt wordt.
 
 Wilt u meer weten over dit onderwerp? Bel of mail dan gerust naar onze praktijk. Wij hebben verschillende informatie folders klaarliggen en als u specifieke vragen heeft kan één van onze chiropractoren altijd telefonisch contact met u opnemen.
+
+Hallo
