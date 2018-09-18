@@ -7,5 +7,3 @@ fields:
   label: Titel
   name: titel
   default: Dit is de titel van het bericht
-pages:
-- _posts/dit-is-een-test-bericht.md
