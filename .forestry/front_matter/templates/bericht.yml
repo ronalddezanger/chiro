@@ -1,0 +1,9 @@
+---
+label: Bericht
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titel
+  name: titel
+  default: Dit is de titel van het bericht
